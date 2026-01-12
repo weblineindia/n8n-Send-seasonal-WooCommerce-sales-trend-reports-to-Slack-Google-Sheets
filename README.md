@@ -1,0 +1,2 @@
+# n8n-Send-seasonal-WooCommerce-sales-trend-reports-to-Slack-Google-Sheets
+Stay on top of seasonal performance without manual analysis. This n8n workflow automation aggregates WooCommerce sales data, compares revenue and order trends across months and years, identifies top-selling SKUs, logs results in Google Sheets, and delivers clean, executive-ready summaries to Slack using a reliable n8n workflow template.
